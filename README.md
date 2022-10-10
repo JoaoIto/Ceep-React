@@ -7,7 +7,9 @@
 **This paradigm helps us organize our code, facilitating its maintenance and readability, which is very important within a team, regardless of the size of the project.**
 
 In the page we made, we used the framwork to show a ceep, the design is still minimalist, but we used the updated JavaScript and HTML resources and soon we will be adding the step-by-step documentation of the project! ;)
-# 
+
+--- 
+
 ## **Take this React course and:**
 
 - Learn how to create class components within React
@@ -16,7 +18,7 @@ In the page we made, we used the framwork to show a ceep, the design is still mi
 - Create Sites more easily
 - Discover how React works to optimize your websites
 
-# 
+---
 
 ## **How to start a project in React?**
 
@@ -28,4 +30,5 @@ In the page we made, we used the framwork to show a ceep, the design is still mi
 
 ``cd <folderName>``
 ``npm start``
-# 
+
+---
