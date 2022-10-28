@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ceep/static/css/main.6593a9ba.chunk.css",
-    "main.js": "/ceep/static/js/main.a30a9555.chunk.js",
-    "main.js.map": "/ceep/static/js/main.a30a9555.chunk.js.map",
-    "runtime-main.js": "/ceep/static/js/runtime-main.9718ffcf.js",
-    "runtime-main.js.map": "/ceep/static/js/runtime-main.9718ffcf.js.map",
-    "static/js/2.b3d1f6ce.chunk.js": "/ceep/static/js/2.b3d1f6ce.chunk.js",
-    "static/js/2.b3d1f6ce.chunk.js.map": "/ceep/static/js/2.b3d1f6ce.chunk.js.map",
-    "index.html": "/ceep/index.html",
-    "static/css/main.6593a9ba.chunk.css.map": "/ceep/static/css/main.6593a9ba.chunk.css.map",
-    "static/js/2.b3d1f6ce.chunk.js.LICENSE.txt": "/ceep/static/js/2.b3d1f6ce.chunk.js.LICENSE.txt",
-    "static/media/delete.a53e2203.svg": "/ceep/static/media/delete.a53e2203.svg"
+    "main.css": "/Ceep-React/static/css/main.6593a9ba.chunk.css",
+    "main.js": "/Ceep-React/static/js/main.a30a9555.chunk.js",
+    "main.js.map": "/Ceep-React/static/js/main.a30a9555.chunk.js.map",
+    "runtime-main.js": "/Ceep-React/static/js/runtime-main.04f56a37.js",
+    "runtime-main.js.map": "/Ceep-React/static/js/runtime-main.04f56a37.js.map",
+    "static/js/2.b3d1f6ce.chunk.js": "/Ceep-React/static/js/2.b3d1f6ce.chunk.js",
+    "static/js/2.b3d1f6ce.chunk.js.map": "/Ceep-React/static/js/2.b3d1f6ce.chunk.js.map",
+    "index.html": "/Ceep-React/index.html",
+    "static/css/main.6593a9ba.chunk.css.map": "/Ceep-React/static/css/main.6593a9ba.chunk.css.map",
+    "static/js/2.b3d1f6ce.chunk.js.LICENSE.txt": "/Ceep-React/static/js/2.b3d1f6ce.chunk.js.LICENSE.txt",
+    "static/media/delete.a53e2203.svg": "/Ceep-React/static/media/delete.a53e2203.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9718ffcf.js",
+    "static/js/runtime-main.04f56a37.js",
     "static/js/2.b3d1f6ce.chunk.js",
     "static/css/main.6593a9ba.chunk.css",
     "static/js/main.a30a9555.chunk.js"
