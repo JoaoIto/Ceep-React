@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/JoaoIto/Ceep-React/static/css/main.6593a9ba.chunk.css",
+    "main.js": "/JoaoIto/Ceep-React/static/js/main.a30a9555.chunk.js",
+    "main.js.map": "/JoaoIto/Ceep-React/static/js/main.a30a9555.chunk.js.map",
+    "runtime-main.js": "/JoaoIto/Ceep-React/static/js/runtime-main.4194f76f.js",
+    "runtime-main.js.map": "/JoaoIto/Ceep-React/static/js/runtime-main.4194f76f.js.map",
+    "static/js/2.b3d1f6ce.chunk.js": "/JoaoIto/Ceep-React/static/js/2.b3d1f6ce.chunk.js",
+    "static/js/2.b3d1f6ce.chunk.js.map": "/JoaoIto/Ceep-React/static/js/2.b3d1f6ce.chunk.js.map",
+    "index.html": "/JoaoIto/Ceep-React/index.html",
+    "static/css/main.6593a9ba.chunk.css.map": "/JoaoIto/Ceep-React/static/css/main.6593a9ba.chunk.css.map",
+    "static/js/2.b3d1f6ce.chunk.js.LICENSE.txt": "/JoaoIto/Ceep-React/static/js/2.b3d1f6ce.chunk.js.LICENSE.txt",
+    "static/media/delete.a53e2203.svg": "/JoaoIto/Ceep-React/static/media/delete.a53e2203.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4194f76f.js",
+    "static/js/2.b3d1f6ce.chunk.js",
+    "static/css/main.6593a9ba.chunk.css",
+    "static/js/main.a30a9555.chunk.js"
+  ]
+}
