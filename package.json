@@ -1,7 +1,7 @@
 {
   "name": "ceep",
   "version": "0.1.0",
-  "homepage": "ceep/",
+  "homepage": "https://joaoito.github.io/ceep-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
